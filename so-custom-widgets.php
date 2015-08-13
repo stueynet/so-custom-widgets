@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: SO Custom Widgets
-Description: Custom widgets for SO Page Builder
+Description: Custom widgets for SiteOrigin Page Builder
 Version: 0.1
 Author: stueynet
 Author URI: http://stuey.net
